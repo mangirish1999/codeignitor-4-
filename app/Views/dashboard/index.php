@@ -19,6 +19,7 @@
                 <table class="table table-hover">
                     <thead>
                         <tr>
+                            <h1>Hello! <?= $userInfo['name'] ?></h1>
                             <th>Name</th>
                             <th>Email</th>
                             <th></th>
